@@ -5,7 +5,7 @@
 [![Website](https://img.shields.io/badge/Website-mar--ven.github.io-blue)](https://mar-ven.github.io)
 [![Email](https://img.shields.io/badge/Email-marco.venere@polimi.it-red)](mailto:marco.venere@polimi.it)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5)](https://linkedin.com/in/marcovenere)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285f4)](https://scholar.google.com/citations?user=USERID)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285f4)](https://scholar.google.com/citations?user=Esz4A0YAAAAJ)
 
 </div>
 
