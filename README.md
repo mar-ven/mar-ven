@@ -6,6 +6,7 @@
 [![Email](https://img.shields.io/badge/Email-marco.venere@polimi.it-red)](mailto:marco.venere@polimi.it)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5)](https://linkedin.com/in/marcovenere)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285f4)](https://scholar.google.com/citations?user=Esz4A0YAAAAJ)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0002-8991-1443)
 
 </div>
 
